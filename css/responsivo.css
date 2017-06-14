@@ -1,0 +1,53 @@
+@media (max-width: 1257px) {
+    .eduardofoto {
+       background-size: 100%!important;
+        background-position: center top;
+        height: 300px!important;
+    }
+    #fh5co-blog {
+        height: auto;
+    }
+}
+@media (max-width: 1076px) {
+    .blocotexto{
+        display: block;
+        height: 230px!important;
+        font-size: 1.3vh;
+    }
+}
+@media (max-width: 992px) {
+    .fh5co-nav ul li a {
+        font-size: 1.6vh;
+    }
+}
+@media (max-width: 800px) {
+    .blocotexto{
+        display: block;
+        height: 230px!important;
+        font-size: 2.6vh!important;
+    }
+}
+@media (min-width: 760px) and (max-width: 768px) {
+    .blocotexto{
+        display: block;
+        min-height: 300px!important;
+        height: 300px!important;
+        font-size: 2.6vh!important;
+    }
+}
+@media (max-width: 768px) {
+    .blocotexto{
+        display: block;
+        min-height: 100px!important;
+        height: 100px!important;
+        font-size: 2.6vh!important;
+    }
+}
+@media (max-width: 464px) {
+    .blocotexto{
+        display: block;
+        min-height: 200px!important;
+        height: 200px!important;
+        font-size: 2.3vh!important;
+    }
+}
