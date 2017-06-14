@@ -69,11 +69,11 @@
             <div class="container">
                 <div class="row">
                     <div class="col-xs-2">
-                        <div id="fh5co-logo"><a href="/"><img src="images/brand.png" alt=""></a></div>
+                        <div id="fh5co-logo"><a href="/eduardodrumond"><img src="images/brand.png" alt=""></a></div>
                     </div>
                     <div class="col-xs-10 text-right menu-1">
                         <ul>
-                            <li class="active"><a href="/">Home</a></li>
+                            <li class="active"><a href="/eduardodrumond">Home</a></li>
                             <li><a href="venda-de-imoveis.html">Venda de imóveis</a></li>
                             <li><a href="compra-de-imoveis.html">Compra de imóveis</a></li>
                             <li><a href="parceria-com-imobiliaria.html">Parceria com imobiliárias</a></li>
