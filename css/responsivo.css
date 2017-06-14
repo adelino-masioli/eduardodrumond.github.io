@@ -1,3 +1,14 @@
+@media (min-width: 1920px) {
+    .fh5co-nav ul li a {
+        font-size: 2vh;
+    }
+    #fh5co-course-categories .animate-box .blocotexto {
+        font-size: 2vh;
+        line-height: 25px;
+    }
+}
+
+
 @media (max-width: 1257px) {
     .eduardofoto {
        background-size: 100%!important;
