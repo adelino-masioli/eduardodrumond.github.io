@@ -10,13 +10,42 @@
 
 
 @media (max-width: 1257px) {
+    #fh5co-blog{
+        height: 300px!important;
+    }
     .eduardofoto {
-       background-size: 100%!important;
+       background-size: cover!important;
         background-position: center top;
         height: 300px!important;
     }
     #fh5co-blog {
         height: auto;
+    }
+}
+@media (max-width: 1199px) {
+    .fh5co-nav ul li a {
+        font-size: 12px;
+        padding: 5px;
+    }
+}
+@media (max-width: 1180px) {
+    .services h3{
+        font-size: 16px;
+    }
+    .blocotexto{
+        font-size: 14px!important;
+    }
+    .b1, .b2, .b3{
+        background-size: cover!important;
+    }
+}
+@media (max-width: 1116px) {
+    .sobreeduardo{
+        height: auto!important;
+        overflow: hidden;
+    }
+    .sobreeduardo .sobre_eduardo{
+        padding-top: 70px;
     }
 }
 @media (max-width: 1076px) {
@@ -26,16 +55,53 @@
         font-size: 1.3vh;
     }
 }
+@media (max-width: 1013px) {
+    .sobreeduardo{
+        height: auto!important;
+        overflow: hidden;
+    }
+    .sobreeduardo .sobre_eduardo{
+        padding-top: 60px;
+        font-size: 13px;
+    }
+}
 @media (max-width: 992px) {
+    .fh5co-nav ul {
+        margin: 10px 0 0 0!important;
+    }
     .fh5co-nav ul li a {
-        font-size: 1.6vh;
+        font-size: 10px;
+    }
+    #fh5co-logo img{
+        width: 180px!important;
+    }
+    #fh5co-blog, #fh5co-blog .eduardonome{
+        background: #a4aaab;
+    }
+    .fh5co-nav-toggle{
+        top: 25px;
+    }
+    .about p{
+        font-size: 10px!important;
+    }
+}
+@media (max-width: 912px) {
+    .sobreeduardo .sobre_eduardo{
+        padding-top: 40px;
+        font-size: 12px;
+    }
+}
+@media (max-width: 842px) {
+    .sobreeduardo .sobre_eduardo{
+        padding-top: 30px;
+        font-size: 10px;
     }
 }
 @media (max-width: 800px) {
     .blocotexto{
         display: block;
         height: 230px!important;
-        font-size: 2.6vh!important;
+        font-size: 16px!important;
     }
 }
 @media (min-width: 760px) and (max-width: 768px) {
@@ -51,14 +117,36 @@
         display: block;
         min-height: 100px!important;
         height: 100px!important;
-        font-size: 2.6vh!important;
+        font-size: 16px!important;
+    }
+    .sobreeduardo .sobre_eduardo{
+        padding-top: 30px;
+        font-size: 13px;
+    }
+    .about p{
+        font-size: 12px!important;
+    }
+    .caneta img{
+        margin: auto!important;
+        width: 300px!important;
     }
 }
 @media (max-width: 464px) {
+    #fh5co-logo img{
+        width: 200px!important;
+    }
     .blocotexto{
         display: block;
         min-height: 200px!important;
         height: 200px!important;
-        font-size: 2.3vh!important;
+        font-size: 14px!important;
+    }
+    .about p{
+        font-size: 10px!important;
+    }
+}
+@media (max-width: 294px) {
+    .fh5co-nav-toggle {
+        top: 0px;
     }
 }

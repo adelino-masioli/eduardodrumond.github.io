@@ -163,6 +163,9 @@ h1, h2, h3, h4, h5, h6, figure {
     top: 5px;
     left: 0;
 }
+.fh5co-nav #fh5co-logo img{
+    width: 250px;
+}
 @media screen and (max-width: 768px) {
     .fh5co-nav .menu-1 {
         display: none;
@@ -170,7 +173,7 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 .fh5co-nav ul {
     padding: 0;
-    margin: 40px 0 0 0;
+    margin: 20px 0 0 0;
 }
 .fh5co-nav ul li {
     padding: 0;
@@ -180,8 +183,8 @@ h1, h2, h3, h4, h5, h6, figure {
     font-weight: 300;
 }
 .fh5co-nav ul li a {
-    font-size: 2.3vh;
-    padding: 30px 15px;
+    font-size: 14px;
+    padding: 10px;
     color: #ffffff;
     -webkit-transition: 0.5s;
     -o-transition: 0.5s;
@@ -433,11 +436,10 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 #fh5co-course-categories{
     padding-top: 0em;
-    height: 220px;
+    background-color: #cccccc;
+    height: 362px!important;
 }
 #fh5co-course-categories .animate-box{
-    background-color: #a4aaab;
-    background-image: url('../images/lente.png');
     padding-top: 20px;
     font-family: 'Oswald', sans-serif!important;
 }
@@ -446,11 +448,23 @@ h1, h2, h3, h4, h5, h6, figure {
     min-height: 170px;
     font-size: 2.5vh;
 }
+#fh5co-course-categories .b1{
+    background-image: url('../images/bgbx1.jpg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
 #fh5co-course-categories .b2{
-    background-color: #b5b8b8;
+    background-image: url('../images/bgbx2.jpg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
 }
 #fh5co-course-categories .b3{
-    background-color: #c3c6c4;
+    background-image: url('../images/bgbx3.jpg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
 }
 .services {
     width: 95%;
@@ -462,11 +476,12 @@ h1, h2, h3, h4, h5, h6, figure {
     transition: 0.3s;
 }
 .services h3 {
-    font-size: 18px;
+    font-size: 30px;
     font-weight: 400;
     font-family: 'Oswald', sans-serif!important;
     text-transform: uppercase;
     color: #485054;
+    margin-top: 40px;
 }
 .services p{
     text-align: left;
@@ -891,6 +906,7 @@ h1, h2, h3, h4, h5, h6, figure {
 
 
 #fh5co-blog {
+    display: block;
     padding-top: 0em;
     background: #a4aaab;
     height: 300px;
@@ -1703,3 +1719,52 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 
 /*# sourceMappingURL=style.css.map */
+.imprensa{
+    background: #a4aaab!important;
+    background-image: url('../images/lente-opacity.png')!important;
+    font-family: 'Oswald', sans-serif!important;
+}
+.imprensa h1{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Oswald', sans-serif!important;
+    margin-bottom: 35px;
+    color: #485054;
+    font-size: 60px;
+}
+.imprensa ul{
+    list-style: none;
+    padding: 0px;
+    margin: 0px;
+}
+/*sobreeduardo*/
+.sobreeduardo{
+    margin: 0px;
+    padding: 0px;
+    background: #424c51!important;
+    background-image: url('../images/lente-opacity.png')!important;
+}
+.sobreeduardo .foto_eduardo{
+    margin: 0px;
+    padding: 0px;
+}
+.sobreeduardo .sobre_eduardo{
+    padding-left: 60px;
+    padding-top: 120px;
+}
+.sobreeduardo .sobre_eduardo img{
+    margin-bottom: 30px;
+}
+.sobreeduardo .sobre_eduardo p{
+    color: #ffffff;
+}
+.about{
+    background: #dadcdb;
+}
+.about p{
+    width: 100%;
+    float: left;
+}
+.about p img{
+    float: left;
+}

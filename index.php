@@ -78,6 +78,7 @@
                             <li><a href="compra-de-imoveis.html">Compra de imóveis</a></li>
                             <li><a href="parceria-com-imobiliaria.html">Parceria com imobiliárias</a></li>
                             <li><a href="eduardo-drumond.html">Sobre</a></li>
+                            <li><a href="imprensa.html">Imprensa</a></li>
                             <li><a href="contato.html">Contato</a></li>
                         </ul>
                     </div>
@@ -109,14 +110,12 @@
     <div id="fh5co-course-categories">
         <div class="container-fluid">
             <div class="row">
-                <div class="col-md-4 col-sm-4 col-xs-12 text-center animate-box">
+                <div class="col-md-4 col-sm-4 col-xs-12 text-center animate-box b1">
                     <div class="services">
                         <div class="desc">
                             <h3>Venda de imóveis</h3>
                             <p class="blocotexto">Pense numa empresa que cuida de cada detalhe
-                                da venda do seu imóvel, até da sua tranquilidade.
-                                A Eduardo Drumond Assessoria Imobiliária
-                                acompanha você em todo o processo de venda:
+                                da venda do seu imóvel, até da sua tranquilidade. Acompanhamos você em todo o processo de venda:
                                 da avaliação do imóvel à assinatura do contrato.
                             </p>
                             <p><a href="venda-de-imoveis.html" class="btn-saiba-mais">Saiba mais</a></p>
@@ -127,7 +126,7 @@
                     <div class="services">
                         <div class="desc">
                             <h3>Compra de imóveis</h3>
-                            <p class="blocotexto">A Eduardo Drumond Assessoria Imobiliária acompanha você em cada passo do processo de compra: da primeira visita ao fechamento do contrato. Nossa dedicação é tão grande, que você vai se sentir realizado antes de alcançar seu sonho.</p>
+                            <p class="blocotexto">Assessoramos você em cada passo do processo de compra: da primeira visita ao fechamento do contrato. Nossa dedicação é tão grande, que você vai se sentir realizado antes de alcançar seu sonho.</p>
                             <p><a href="compra-de-imoveis.html" class="btn-saiba-mais">Saiba mais</a></p>
                         </div>
                     </div>
@@ -136,9 +135,8 @@
                     <div class="services">
                         <div class="desc">
                             <h3>Parceria com imobiliárias</h3>
-                            <p class="blocotexto">Imagine ter uma parceira que compartilha tudo com a sua imobiliária, da satisfação do cliente à comissão. A Eduardo Drumond Assessoria Imobiliária é assim. Acompanhamos os clientes em todo o processo de venda: da avaliação do imóvel (clientes vendedores) ou primeira visita (clientes compradores) à assinatura dos contratos.
+                            <p class="blocotexto">Imagine ter uma parceira que compartilha tudo com a sua imobiliária, da satisfação do cliente à comissão. Auxiliamos os clientes em todo o processo de venda: da avaliação do imóvel (clientes vendedores) ou primeira visita (clientes compradores) à assinatura dos contratos.</p>
                             <p><a href="parceria-com-imobiliaria.html" class="btn-saiba-mais">Saiba mais</a></p>
-                            </p>
                         </div>
                     </div>
                 </div>
@@ -146,15 +144,13 @@
         </div>
     </div>
 
-    <div id="fh5co-testimonial"></div>
-
     <div id="fh5co-blog">
         <div class="container-fluid">
             <div class="row">
                 <div class="col-md-6 col-sm-12 col-xs-12  animate-box eduardofoto"></div>
                 <div class="col-md-6 col-sm-12 col-xs-12 animate-box eduardonome">
-                    <h3><img src="images/eduardo_nome.png" class="img-responsive" alt="Eduardo Drumond"></h3>
-                    <p>Eduardo Drumond atua no mercado imobiliário desde 2002. Sua dedicação, conhecimento e experiência o tornaram um corretor de imóveis altamente qualificado e pronto para fazer bons negócios na compra e venda de imóveis.</p>
+                    <h3><img src="images/eduardo_nome_assign.png" class="img-responsive" alt="Eduardo Drumond" width="450"></h3>
+                    <p>Eduardo Drumond Brito Vieira atua no mercado imobiliário desde 2002. Sua dedicação, conhecimento e experiência o tornaram um corretor de imóveis altamente qualificado e pronto para fazer bons negócios na compra e venda de imóveis.</p>
                     <p><a href="eduardo-drumond.html" class="btn-saiba-mais">Saiba mais</a></p>
                 </div>
             </div>
