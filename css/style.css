@@ -1768,3 +1768,20 @@ h1, h2, h3, h4, h5, h6, figure {
 .about p img{
     float: left;
 }
+.p-sobre p{
+    min-height: 63px;
+    margin-bottom: 1px;
+    line-height: 20px;
+    vertical-align: middle;
+    display:table;
+    position: relative;
+}
+.p-sobre p span{
+    *position: absolute;
+    top: 50%;
+    display: table-cell;
+    vertical-align: middle;
+    margin-left: 0px!important;
+    padding-left: 0px!important;
+    width: 85%;
+}
