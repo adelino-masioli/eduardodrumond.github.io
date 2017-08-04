@@ -39,7 +39,7 @@
 }
 @media (min-width: 1181px) {
     #fh5co-course-categories{
-        height: 377px!important;
+        height: 328px!important;
     }
     #fh5co-course-categories .animate-box .blocotexto {
         font-size: 13px;
@@ -95,7 +95,7 @@
 @media (max-width: 1076px) {
     .blocotexto{
         display: block;
-        height: 230px!important;
+        height: 200px!important;
         font-size: 1.3vh;
     }
 }

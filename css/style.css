@@ -437,7 +437,6 @@ h1, h2, h3, h4, h5, h6, figure {
 #fh5co-course-categories{
     padding-top: 0em;
     background-color: #cccccc;
-    height: 362px!important;
 }
 #fh5co-course-categories .animate-box{
     padding-top: 20px;
@@ -445,26 +444,27 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 #fh5co-course-categories .animate-box .blocotexto{
     display: block;
-    min-height: 170px;
-    font-size: 2.5vh;
+    height: 120px;
+    font-size: 13px;
 }
 #fh5co-course-categories .b1{
-    background-image: url('../images/bgbx1.jpg');
+    /*background-image: url('../images/bgbx1.jpg');
     background-repeat: no-repeat;
     background-position: center center;
-    background-size: cover;
+    background-size: cover;*/
 }
 #fh5co-course-categories .b2{
-    background-image: url('../images/bgbx2.jpg');
+    /*background-image: url('../images/bgbx2.jpg');
     background-repeat: no-repeat;
     background-position: center center;
-    background-size: cover;
+    background-size: cover;*/
+    /*background: #c2c2c2;*/
 }
 #fh5co-course-categories .b3{
-    background-image: url('../images/bgbx3.jpg');
+   /* background-image: url('../images/bgbx3.jpg');
     background-repeat: no-repeat;
     background-position: center center;
-    background-size: cover;
+    background-size: cover;*/
 }
 .services {
     width: 95%;

@@ -150,7 +150,7 @@
                 <div class="col-md-6 col-sm-12 col-xs-12  animate-box eduardofoto"></div>
                 <div class="col-md-6 col-sm-12 col-xs-12 animate-box eduardonome">
                     <h3><img src="images/eduardo_nome_assign.png" class="img-responsive" alt="Eduardo Drumond" width="450"></h3>
-                    <p>Eduardo Drumond Brito Vieira atua no mercado imobiliário desde 2002. Sua dedicação, conhecimento e experiência o tornaram um corretor de imóveis altamente qualificado e pronto para fazer bons negócios na compra e venda de imóveis.</p>
+                    <p>Eduardo Drumond Brito Vieira atua no mercado imobiliário desde 2002. Sua dedicação, conhecimento e experiência o tornaram um assessor imobiliário altamente qualificado e pronto para fazer bons negócios na compra e venda de imóveis.</p>
                     <p><a href="eduardo-drumond.html" class="btn-saiba-mais">Saiba mais</a></p>
                 </div>
             </div>
@@ -162,7 +162,7 @@
         <div class="overlay"></div>
         <div class="container">
             <div class="row row-pb-md">
-                <div class="col-md-3 col-sm-4 col-xs-6 col-md-push-1 fh5co-widget">
+                <div class="col-md-3 col-sm-4 col-xs-6  fh5co-widget">
                     <h3>Compra e venda</h3>
                     <ul class="fh5co-footer-links">
                         <li><a href="venda-de-imoveis.html">Venda de imóveis</a></li>
@@ -170,21 +170,28 @@
                     </ul>
                 </div>
 
-                <div class="col-md-3 col-sm-4 col-xs-6 col-md-push-1 fh5co-widget">
+                <div class="col-md-3 col-sm-4 col-xs-6  fh5co-widget">
                     <h3>Parcerias</h3>
                     <ul class="fh5co-footer-links">
                         <li><a href="parceria-com-imobiliaria.html">Parceria com imobiliárias</a></li>
                     </ul>
                 </div>
 
-                <div class="col-md-3 col-sm-4 col-xs-6 col-md-push-1 fh5co-widget">
+                <div class="col-md-2 col-sm-4 col-xs-6  fh5co-widget">
                     <h3>Sobre</h3>
                     <ul class="fh5co-footer-links">
                         <li><a href="eduardo-drumond.html">Eduardo Drumond</a></li>
                     </ul>
                 </div>
 
-                <div class="col-md-3 col-sm-4 col-xs-6 col-md-push-1 fh5co-widget">
+                <div class="col-md-2 col-sm-4 col-xs-6 fh5co-widget">
+                    <h3>Imprensa</h3>
+                    <ul class="fh5co-footer-links">
+                        <li><a href="imprensa.html">Imprensa</a></li>
+                    </ul>
+                </div>
+
+                <div class="col-md-2 col-sm-4 col-xs-6 fh5co-widget">
                     <h3>Contato</h3>
                     <ul class="fh5co-footer-links">
                         <li><a href="contato.html">Fale conosco</a></li>
