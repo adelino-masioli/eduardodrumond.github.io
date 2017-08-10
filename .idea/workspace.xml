@@ -1,20 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="09672d7b-2be4-40b6-900f-510b64124f01" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/eduardo_nome.png" afterPath="$PROJECT_DIR$/images/eduardo_nome.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/eduardo_nome_assign.png" afterPath="$PROJECT_DIR$/images/eduardo_nome_assign.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compra-de-imoveis.html" afterPath="$PROJECT_DIR$/compra-de-imoveis.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/contato.html" afterPath="$PROJECT_DIR$/contato.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/responsivo.css" afterPath="$PROJECT_DIR$/css/responsivo.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eduardo-drumond.html" afterPath="$PROJECT_DIR$/eduardo-drumond.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imprensa.html" afterPath="$PROJECT_DIR$/imprensa.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/parceria-com-imobiliaria.html" afterPath="$PROJECT_DIR$/parceria-com-imobiliaria.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venda-de-imoveis.html" afterPath="$PROJECT_DIR$/venda-de-imoveis.html" />
-    </list>
+    <list default="true" id="09672d7b-2be4-40b6-900f-510b64124f01" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -145,7 +132,7 @@
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ticketlog.com.br" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="ignore_missing_gitignore" value="true" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
@@ -256,12 +243,12 @@
       <workItem from="1500647730529" duration="2355000" />
       <workItem from="1500657733356" duration="12000" />
       <workItem from="1500910355531" duration="333000" />
-      <workItem from="1501803179241" duration="1612000" />
+      <workItem from="1501803179241" duration="3198000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30169000" />
+    <option name="totallyTimeSpent" value="31755000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="-11" width="1368" height="780" extended-state="6" />

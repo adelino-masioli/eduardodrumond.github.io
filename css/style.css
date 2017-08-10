@@ -16,7 +16,7 @@ body {
     font-size: 15px;
     line-height: 1.7;
     color: #828282;
-    background: #fff;
+    background: #dddedd;
 }
 
 #page {
@@ -404,7 +404,7 @@ h1, h2, h3, h4, h5, h6, figure {
     background: #e8e8e8;
 }
 
-#fh5co-course-categories,
+#fh5co-course-categoriess,
 #fh5co-counter,
 #fh5co-course,
 #fh5co-register,
@@ -420,7 +420,7 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 
 @media screen and (max-width: 768px) {
-    #fh5co-course-categories,
+    #fh5co-course-categoriesw,
     #fh5co-counter,
     #fh5co-course,
     #fh5co-register,
@@ -435,8 +435,9 @@ h1, h2, h3, h4, h5, h6, figure {
     }
 }
 #fh5co-course-categories{
-    padding-top: 0em;
+    padding-top: 0em!important;
     background-color: #cccccc;
+    clear: both;
 }
 #fh5co-course-categories .animate-box{
     padding-top: 20px;
@@ -448,23 +449,19 @@ h1, h2, h3, h4, h5, h6, figure {
     font-size: 13px;
 }
 #fh5co-course-categories .b1{
-    /*background-image: url('../images/bgbx1.jpg');
-    background-repeat: no-repeat;
-    background-position: center center;
-    background-size: cover;*/
+    background-image: url('../images/lente-opacity.png');
+    background-repeat: repeat;
+    background-color: #a4aaab;
 }
 #fh5co-course-categories .b2{
-    /*background-image: url('../images/bgbx2.jpg');
-    background-repeat: no-repeat;
-    background-position: center center;
-    background-size: cover;*/
-    /*background: #c2c2c2;*/
+    background-image: url('../images/lente-opacity.png');
+    background-repeat: repeat;
+    background-color: #b5b8b8;
 }
 #fh5co-course-categories .b3{
-   /* background-image: url('../images/bgbx3.jpg');
-    background-repeat: no-repeat;
-    background-position: center center;
-    background-size: cover;*/
+   background-image: url('../images/lente-opacity.png');
+    background-repeat: repeat;
+    background-color: #c3c6c4;
 }
 .services {
     width: 95%;
@@ -1741,7 +1738,7 @@ h1, h2, h3, h4, h5, h6, figure {
 .sobreeduardo{
     margin: 0px;
     padding: 0px;
-    background: #424c51!important;
+    background: #7c858a!important;
     background-image: url('../images/lente-opacity.png')!important;
 }
 .sobreeduardo .foto_eduardo{
